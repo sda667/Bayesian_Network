@@ -24,3 +24,8 @@ We use **enumeration-based inference** (exact, model-driven) to update the belie
   
 <img width="552" height="63" alt="Screenshot 2024-11-10 at 23 49 28" src="https://github.com/user-attachments/assets/aa52662c-6cf1-41f3-bc79-da238470ce93" />
 
+## Files
+- [main.py](main.py) — Entry point
+- [bayesian_network.py](bayesian_network.py) — Bayesian network model and enumeration-based inference logic.
+- [grid.py](grid.py) — Grid/world representation and utilities
+- [bayesian_network_report.pdf](bayesian_network_report.pdf) — Project report.
